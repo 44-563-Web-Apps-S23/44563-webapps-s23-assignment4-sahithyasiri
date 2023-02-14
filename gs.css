@@ -1,0 +1,38 @@
+.speech{
+    font-size: 20px;
+    color:black;
+}
+.direction{
+    font-size: 30px;
+    color:black;
+    background-color: bisque;
+
+}
+.direction.hover{
+   color: #000;
+   background-color: aliceblue;
+}
+.OLLIVANT{
+    color: rgb(45,142,193);
+    font-size: 20px;
+}
+.MARY{
+    color: blue;
+    font-size: 20px;
+}
+.EMILY{
+    color: blueviolet;
+    font-size: 20px;
+}
+.SIR HARRY{
+    color: beige;
+    font-size: 20px;
+}
+.LADY SIMS{
+    color: aqua;
+    font-size: 20px;
+}
+.TOMBES{
+    color: aquamarine;
+    font-size: 20px;
+}
