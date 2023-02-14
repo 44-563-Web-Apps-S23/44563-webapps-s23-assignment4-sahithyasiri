@@ -45,3 +45,16 @@ table, th, td {
     padding: 10px;
     margin: 25px;
   }
+  tr:nth-child(even){
+    background-color: cadetblue;
+  }
+  .OLLIVANT:hover{
+    color:coral;
+    border:solid 3px bisque;
+    text-shadow: 3px 4px 5px; 
+  }
+  .MARY:hover{
+    color:blue;
+    border:solid 3px burlywood;
+    text-shadow: 3px 4px 5px ;
+  }
