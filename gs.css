@@ -1,6 +1,6 @@
 .speech{
     font-size: 20px;
-    color:black;
+    color:rebeccapurple;
 }
 .direction{
     font-size: 30px;
@@ -8,7 +8,7 @@
     background-color: bisque;
 
 }
-.direction.hover{
+.direction:hover{
    color: #000;
    background-color: aliceblue;
 }
